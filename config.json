@@ -1,0 +1,16 @@
+{
+  "app_name": "CorpsAndRo Mod Menu",
+  "package": "com.RuNixGames.CopsAndRobbers",
+  "version": "1.203f",
+  "min_sdk": 23,
+  "target_sdk": 33,
+  "menu": {
+    "title": "RuNix MOD MENU",
+    "features": [
+      { "id": 1, "name": "GOD MODE", "default": false },
+      { "id": 2, "name": "UNLIMITED MONEY", "default": false },
+      { "id": 3, "name": "SPEED HACK", "default": false },
+      { "id": 4, "name": "AIMBOT", "default": false }
+    ]
+  }
+}
